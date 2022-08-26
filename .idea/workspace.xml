@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67de8a1f-9059-4f36-b259-924fcb9d7ff0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entrega-28082022.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade15.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2DoUEcZrmYEFrgxkzYz1MDoohMu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Atividade10">
+    <configuration name="Atividade01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividades.Atividade01" />
+      <module name="entrega-28082022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Atividades.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atividade10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividades.Atividade10" />
+      <module name="entrega-28082022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Atividades.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Atividade10" />
+        <item itemvalue="Application.Atividade01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67de8a1f-9059-4f36-b259-924fcb9d7ff0" name="Changes" comment="" />
+      <created>1661364843876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661364843876</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
